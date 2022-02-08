@@ -302,7 +302,7 @@ header > img {
 #img-music-boys {
   width: 50%;
   height: 630px;
-  background-image: url(../images/music-boys.jpg);
+  background-image: url("../images/music-boys.jpg");
   /* object-fit: contain; */
   background-position: center;
   background-size: cover;
@@ -490,7 +490,7 @@ header > img {
   margin-right: 5px;
 }
 #page-description > #main-slider-container > div {
-  background-image: url(/assets/images/mnz-v13tnV6D9lw-unsplash.jpg);
+  background-image: url("../images/mnz-v13tnV6D9lw-unsplash.jpg");
   background-position: center;
   background-size: 100%;
   object-fit: cover;
